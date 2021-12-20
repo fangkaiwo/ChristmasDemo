@@ -173,7 +173,14 @@ var config = function () {
 			color6: '#00ffff',
 			color7: '#fff'
 		},
-		dialogue: [{ type: 6, name: '男子', txt: '快过年了，我们去放烟花吧！' }, { type: 2, name: '女子', txt: '天还这么亮，现在放烟花也不好看。' }, { type: 2, name: '女子', txt: '再说你那有烟花吗？' }, { type: 6, name: '男子', txt: '我当然有烟花啦。' }, { type: 6, name: '男子', txt: '你那有打火机吗？' }, { type: 2, name: '女子', txt: '没有呀～' }, { type: 6, name: '男子', txt: '那你是怎么点燃我的心的？' }, { type: 2, name: '女子', txt: '。。。' }, { type: 2, name: '女子', txt: '可是我的心还没有被你点燃呀。' }, { type: 6, name: '男子', txt: '别慌，我去买个打火机先。' }, { type: 2, name: '女子', txt: '打火机可点不燃我的心。' }, { type: 6, name: '男子', txt: '天快黑了，我要为你点燃整片天空。' }],
+		// dialogue: [{ type: 6, name: '男子', txt: '快过年了，我们去放烟花吧！' }, { type: 2, name: '女子', txt: '天还这么亮，现在放烟花也不好看。' }, { type: 2, name: '女子', txt: '再说你那有烟花吗？' }, { type: 6, name: '男子', txt: '我当然有烟花啦。' }, { type: 6, name: '男子', txt: '你那有打火机吗？' }, { type: 2, name: '女子', txt: '没有呀～' }, { type: 6, name: '男子', txt: '那你是怎么点燃我的心的？' }, { type: 2, name: '女子', txt: '。。。' }, { type: 2, name: '女子', txt: '可是我的心还没有被你点燃呀。' }, { type: 6, name: '男子', txt: '别慌，我去买个打火机先。' }, { type: 2, name: '女子', txt: '打火机可点不燃我的心。' }, { type: 6, name: '男子', txt: '天快黑了，我要为你点燃整片天空。' }],
+		 dialogue: [{ type: 6, name: '圣诞老人', txt: '圣洁的雪花缓缓飘下' }, { type: 2, name: '圣诞老人', txt: '甜蜜的巧克力把芬芳散发' }, 
+		 { type: 2, name: '圣诞老人', txt: '圣诞的钟声在你心里跳跃出快乐的音符' }, { type: 6, name: '圣诞老人', txt: '祝福的暖流涌向你的心里' }, 
+		 { type: 6, name: '圣诞老人', txt: '愿你贪吃不胖' }, { type: 2, name: '圣诞老人', txt: '美梦不空' }],
+		 // { type: 6, name: '男子', txt: '那你是怎么点燃我的心的？' }, { type: 2, name: '女子', txt: '。。。' }, 
+		 // { type: 2, name: '女子', txt: '可是我的心还没有被你点燃呀。' }, { type: 6, name: '男子', txt: '别慌，我去买个打火机先。' }, 
+		 // { type: 2, name: '女子', txt: '打火机可点不燃我的心。' }, { type: 6, name: '男子', txt: '天快黑了，我要为你点燃整片天空。' }],
+
 		// 阶段二
 		sunset: 8000,
 
