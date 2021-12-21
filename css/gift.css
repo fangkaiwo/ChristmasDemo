@@ -49,7 +49,7 @@ body {
  .present {
    position: absolute;
    left: 10%;
-   bottom: 25%;
+   bottom: 15%;
    animation: moving-present 1s ease-in-out 1s 3;
  }
  
