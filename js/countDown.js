@@ -25,7 +25,7 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('(●—●)|大白专属|#countdown 10|圣诞快乐|happy|哈哈哈哈');
+      S.UI.simulate('宝贝专属|#countdown 10|圣诞快乐|happy|哈哈哈哈');
     }
 
     S.Drawing.loop(function () {
